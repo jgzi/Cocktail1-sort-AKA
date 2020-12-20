@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608478150 source:c:\users\asus\desktop\aka\testtt\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
